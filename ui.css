@@ -1,0 +1,29 @@
+/* header */
+.header input[type="text"] {
+  border-style: none;
+  width: 150px;
+  height: 30px;
+}
+
+.header input[type="submit"] {
+  background-color: gold;
+  border-style: none;
+  height: 30px;
+}
+
+/* menu */
+.menu {
+}
+
+.menu-item {
+  background: gold;
+}
+
+.menu-item:hover {
+  background-color: crimson;
+}
+
+.menu-link {
+  display: block;
+  padding: 1em;
+}

@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  align-items: center; /* 중앙에 위치하게 끔. */
+  justify-content: space-between;
+  height: 80px;
+  padding: 0 1rem; /* 좌우정렬 위아래 0, 좌우 1rem*/
+}
+
+/* .header에 justify-content: space-between; 대신 사용 가능 */
+/* .search-form {
+  margin-left: auto;
+} */
